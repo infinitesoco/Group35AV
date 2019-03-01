@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target octomap_server_gencfg[0m
+[  5%] [34m[1mGenerating dynamic reconfigure files from cfg/OctomapServer.cfg: /home/nvidia/AV/devel/.private/octomap_server/include/octomap_server/OctomapServerConfig.h /home/nvidia/AV/devel/.private/octomap_server/lib/python2.7/dist-packages/octomap_server/cfg/OctomapServerConfig.py[0m
+Generating reconfiguration files for OctomapServer in octomap_server
+Wrote header file in /home/nvidia/AV/devel/.private/octomap_server/include/octomap_server/OctomapServerConfig.h
+[  5%] Built target octomap_server_gencfg
+[35m[1mScanning dependencies of target octomap_server[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/OctomapServer.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/TrackingOctomapServer.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/OctomapServerMultilayer.cpp.o[0m

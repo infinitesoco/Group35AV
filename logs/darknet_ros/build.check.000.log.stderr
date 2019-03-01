@@ -1,0 +1,356 @@
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:10:29
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:11:10
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:11:44
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:12:38
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:12:53
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:18:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:18:56
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:19:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:19:53
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:33:26
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:33:27
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:37:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:37:39
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:235:27
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:235:30
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:239:11
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:239:66
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:240:11
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:240:38
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:241:17
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:241:75
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:242:17
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:242:24
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:243:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:243:63
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:248:11
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:248:33
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:249:17
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:249:70
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:250:17
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:250:24
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:251:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:251:63
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:261:13
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:261:68
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:262:13
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:262:35
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:263:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:263:72
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:264:19
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:264:26
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Syntax Warning in cmake code at
+
+    /home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:265:21
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error: Error in cmake code at
+/home/nvidia/AV/src/darknet_ros-master/darknet_ros/CMakeLists.txt:281:
+Parse error.  Function missing ending ")".  Instead found unterminated string with text ")
+    execute_process(COMMAND wget http://pjreddie.com/media/files/yolov2.weights -P ${{PATH}})
+  endif()
+
+  find_package(rostest REQUIRED)
+
+  # Object detection in images.
+  add_rostest_gtest(${{PROJECT_NAME}}_object_detection-test
+    test/object_detection.test
+    test/test_main.cpp
+    test/ObjectDetection.cpp
+  )
+  target_link_libraries(${{PROJECT_NAME}}_object_detection-test
+    ${{catkin_LIBRARIES}}
+  )
+endif()
+".
+make: *** [cmake_check_build_system] Error 1
